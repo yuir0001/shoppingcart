@@ -1,19 +1,19 @@
  const product = [
     {
         id: 0,
-        image: 'image/gg-1.jpg',
+        image: 'image/aa-1.jpg',
         title: 'Z Flip Foldable Mobile',
         price: 120,
     },
     {
         id: 1,
-        image: 'image/hh-2.jpg',
+        image: 'image/aa-1.jpg',
         title: 'Air Pods Pro',
         price: 60,
     },
     {
         id: 2,
-        image: 'image/ee-3.jpg',
+        image: 'image/aa-1.jpg',
         title: '250D DSLR Camera',
         price: 230,
     },
