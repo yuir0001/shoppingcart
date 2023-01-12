@@ -1,25 +1,25 @@
  const product = [
     {
         id: 0,
-        image: 'img/aa-1.jpg',
+        image: 'image/aa-1.jpg',
         title: 'WEED',
         price: 120,
     },
     {
         id: 1,
-        image: 'img/aa-1.jpg',
+        image: 'image/aa-1.jpg',
         title: 'WEED2 ',
         price: 60,
     },
     {
         id: 2,
-        image: 'img/aa-1.jpg',
+        image: 'image/aa-1.jpg',
         title: 'WEED3',
         price: 230,
     },
     {
         id: 3,
-        image: 'img/aa-1.jpg',
+        image: 'image/aa-1.jpg',
         title: 'WEED4',
         price: 100,
     }
