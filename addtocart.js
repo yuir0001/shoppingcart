@@ -2,25 +2,25 @@
     {
         id: 0,
         image: 'img/aa-1.jpg',
-        title: 'Z Flip Foldable Mobile',
+        title: 'WEED',
         price: 120,
     },
     {
         id: 1,
         image: 'img/aa-1.jpg',
-        title: 'Air Pods Pro',
+        title: 'WEED2 ',
         price: 60,
     },
     {
         id: 2,
         image: 'img/aa-1.jpg',
-        title: '250D DSLR Camera',
+        title: 'WEED3',
         price: 230,
     },
     {
         id: 3,
         image: 'img/aa-1.jpg',
-        title: 'Head Phones',
+        title: 'WEED4',
         price: 100,
     }
 ];
